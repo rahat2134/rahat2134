@@ -1,35 +1,75 @@
-# Hi there! 👋
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+18381
+Fork on GitHub
+5461
 
-I'm Rahat, a passionate and self-motivated developer. I'm currently a first-year student at FunctionUp School of Technology, where I've been actively exploring various technologies.
+back to edit
 
-## 🔧 Technologies & Tools
+copy-markdown
 
-- Programming Languages: Java, HTML, CSS, JavaScript
-- Frameworks: Currently learning the MERN stack (MongoDB, Express.js, React.js, Node.js)
-- Version Control: Git
-- IDE: Visual Studio Code
+download markdown
 
-## 🌱 Currently Learning
+download backup
 
-I'm on a journey to master the MERN stack, diving into web development with a focus on building robust and scalable applications.
+preview
+<h1 align="center">Hi 👋, I'm Rahat</h1>
+<h3 align="center">A passionate Student of Cse from India</h3>
 
-## 🚀 Projects
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat2134&label=Profile%20views&color=0e75b6&style=flat" alt="rahat2134" /> </p>
 
-- [GenderFinder](https://github.com/rahat2134/GenderFinder): input your name and get your gender as output.
-- [GitHubAccountFinder](Link to Project 2): input your name and get your profile as output.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahat2134" alt="rahat2134" /></a> </p>
 
-## 🎯 Goals
+- 🔭 I’m currently working on [Rocket.chat](https://www.gsocorganizations.dev/organization/rocket.chat/)
 
-I'm currently preparing for the Google Summer of Code (GSoC), aiming to contribute to open-source projects and further develop my skills.
+- 🌱 I’m currently learning **Mern**
 
-## 📈 GitHub Stats
+- 👨‍💻 All of my projects are available at [https://github.com/rahat2134](https://github.com/rahat2134)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+- 💬 Ask me about **Html,css,J.S,java,dsa,react,node,api**
 
-## 📫 Let's Connect!
+- 📫 How to reach me **arnavkhan4343@gmail.com**
 
-- LinkedIn: ([Link to LinkedIn](https://www.linkedin.com/in/rahat-a59686248/))
-- LeetCode: [Link to Leetcode](https://leetcode.com/rahat2134/)
-- Youtube : [Link to Youtube](https://www.youtube.com/channel/UCvoZIOfIEQ71CsolYzflnQQ)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rahat." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahat." height="30" width="40" /></a>
+<a href="https://fb.com/rahat2134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahat2134" height="30" width="40" /></a>
+<a href="https://instagram.com/rahat.2134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahat.2134" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/firstsemcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="firstsemcoder" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/rahat2134/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rahat2134/" height="30" width="40" /></a>
+</p>
 
-Feel free to explore my repositories and connect with me! I'm always open to collaboration and new opportunities.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat2134&show_icons=true&locale=en&layout=compact" alt="rahat2134" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahat2134&show_icons=true&locale=en" alt="rahat2134" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahat2134&" alt="rahat2134" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
