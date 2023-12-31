@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Rahat], a passionate and self-motivated developer. I'm currently a first-year student at FunctionUp School of Technology, where I've been actively exploring various technologies.
+I'm Rahat, a passionate and self-motivated developer. I'm currently a first-year student at FunctionUp School of Technology, where I've been actively exploring various technologies.
 
 ## 🔧 Technologies & Tools
 
@@ -15,7 +15,7 @@ I'm on a journey to master the MERN stack, diving into web development with a fo
 
 ## 🚀 Projects
 
-- [GenderFinder](Link to Project 1): input your name and get your gender as output.
+- [GenderFinder](https://github.com/rahat2134/GenderFinder): input your name and get your gender as output.
 - [GitHubAccountFinder](Link to Project 2): input your name and get your profile as output.
 
 ## 🎯 Goals
@@ -28,9 +28,8 @@ I'm currently preparing for the Google Summer of Code (GSoC), aiming to contribu
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [https://www.linkedin.com/in/rahat-a59686248/](Link to LinkedIn)
-- LeetCode: [https://www.leetcode.com/](https://leetcode.com/rahat2134/](Link to Leetcode)
-- ![https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif]()
-- Youtube : [https://www.youtube.com/channel/UCvoZIOfIEQ71CsolYzflnQQ](Link to Youtube)
+- LinkedIn: ([Link to LinkedIn](https://www.linkedin.com/in/rahat-a59686248/))
+- LeetCode: [Link to Leetcode](https://leetcode.com/rahat2134/)
+- Youtube : [Link to Youtube](https://www.youtube.com/channel/UCvoZIOfIEQ71CsolYzflnQQ)
 
 Feel free to explore my repositories and connect with me! I'm always open to collaboration and new opportunities.
