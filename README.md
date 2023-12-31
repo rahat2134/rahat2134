@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/rahat." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahat." height="30" width="40" /></a>
 <a href="https://fb.com/rahat2134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahat2134" height="30" width="40" /></a>
 <a href="https://instagram.com/rahat.2134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahat.2134" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/firstsemcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="firstsemcoder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/FirstSemCoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="firstsemcoder" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/rahat2134/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rahat2134/" height="30" width="40" /></a>
 </p>
 
