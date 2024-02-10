@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahat</h1>
-<h3 align="center">A passionate Student of Cse from India</h3>
-
+<h3 align="center">EAT , SLEEP , CODE , OPENSOURCE , REPEAT</h3>
+<a target="_blank">
+<img align="center" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif">
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat2134&label=Profile%20views&color=0e75b6&style=flat" alt="rahat2134" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahat2134" alt="rahat2134" /></a> </p>
