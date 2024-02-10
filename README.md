@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahat</h1>
 <h3 align="center">EAT , SLEEP , CODE , OPENSOURCE , REPEAT</h3>
 <a target="_blank">
-<img align="center" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif">
 </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat2134&label=Profile%20views&color=0e75b6&style=flat" alt="rahat2134" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahat2134" alt="rahat2134" /></a> </p>
-
-- 🔭 I’m currently working on [Rocket.chat](https://www.gsocorganizations.dev/organization/rocket.chat/)
+- 🔭 I’m currently working on [oppia](https://github.com/oppia/oppia)
 
 - 🌱 I’m currently learning **Mern**
 
@@ -16,6 +12,12 @@
 - 💬 Ask me about **Html,css,J.S,java,dsa,react,node,api**
 
 - 📫 How to reach me **arnavkhan4343@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat2134&label=Profile%20views&color=0e75b6&style=flat" alt="rahat2134" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahat2134" alt="rahat2134" /></a> </p>
+
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
