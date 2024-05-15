@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahat</h1>
-<h3 align="center">"There is always one more bug to fix."</h3>
+<h3 align="center">There is always one more bug to fix.</h3>
 <a target="_blank">
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif">
 </a>
@@ -14,6 +14,7 @@
 - 📫 How to reach me **arnavkhan4343@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat2134&label=Profile%20views&color=0e75b6&style=flat" alt="rahat2134" /> </p>
+</br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahat2134" alt="rahat2134" /></a> </p>
 
