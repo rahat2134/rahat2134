@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahat</h1>
-<h3 align="center">"Give me Music , Macbook , Vscode and that's enough"</h3>
+<h3 align="center">"There is always one more bug to fix."</h3>
 <a target="_blank">
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif">
 </a>
