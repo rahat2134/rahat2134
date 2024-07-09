@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Rahat</h1>
+![Blue, Green, and White Modern Tech Web Developer LinkedIn Banner (1)](https://github.com/rahat2134/rahat2134/assets/136263179/615001df-631c-4944-900c-b29506a069cb)
 <h3 align="center">There is always one more bug to fix.</h3>
 <a target="_blank">
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif">
 </a>
-- 🔭 I’m currently working on [oppia](https://github.com/oppia/oppia), Linux Foundation and Open Mainframe Project.
 
-- 🌱 I’m currently learning **Mern**
+- 🔭 I works with [oppia](https://github.com/oppia/oppia), Linux Foundation, Open Mainframe Project, Hyperledger, etc.
 
-- 👨‍💻 All of my projects are available at [https://github.com/rahat2134](https://github.com/rahat2134)
+- 🌱 I cracked Linux Foundation Mentorship Program 2024 and various opensource programs in my first year of college.
 
-- 💬 Ask me about **Html,css,J.S,java,dsa,react,node,api**
+- 💬 Podcast Host @OMP
 
-- 📫 How to reach me **arnavkhan4343@gmail.com**
+- 👨‍💻 Skills: DevOps, Automation, Mainframes, J.S, T.S, Quality Assurance, React, Angular, Testing, etc.
+- 📫 How to reach me - **arnavkhan4343@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat2134&label=Profile%20views&color=0e75b6&style=flat" alt="rahat2134" /> </p>
 </br>
@@ -20,9 +20,6 @@
 
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,6 +38,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat2134&show_icons=true&locale=en&layout=compact" alt="rahat2134" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahat2134&show_icons=true&locale=en" alt="rahat2134" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahat2134&" alt="rahat2134" /></p>
