@@ -6,13 +6,13 @@
 
 - 🎙️ Top Opensource Voice on [LinkedIn](https://linkedin.com/in/rahat-a59686248//).
 
-- 🔭 I works with [oppia](https://github.com/oppia/oppia), Linux Foundation, Open Mainframe Project, Hyperledger, etc.
+- 🔭 I worked with [oppia](https://github.com/oppia/oppia), Linux Foundation, Open Mainframe Project, Hyperledger, etc.
 
 - 🌱 I cracked Linux Foundation Mentorship Program 2024 and various opensource programs in my first year of college.
 
-- 💬 Podcast Host @OMP
+- 💬 Podcast Host & Project Manager @OMP
 
-- 👨‍💻 Skills: DevOps, Automation, Mainframes, J.S, T.S, Quality Assurance, React, Angular, Testing, etc.
+- 👨‍💻 Skills: J.S, T.S, Quality Assurance, Rust, React, Angular, Testing, DevOps, Automation, Mainframes, etc.
 
 - 📫 How to reach me - **arnavkhan4343@gmail.com**
 
